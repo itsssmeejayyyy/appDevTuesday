@@ -21,11 +21,11 @@ public class week5 {
         pianar.display();
 
 
-
+        
         Amar.display();
 
         ECHON.display(); // Add your method call here
-
+        Garcia.display();
 
        
         Pajanustan.display();
