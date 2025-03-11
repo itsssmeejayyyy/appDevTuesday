@@ -77,11 +77,15 @@ public class Calculator {
         return a + b;
     }
  
- //Group 4: Division (Members: Balais, Tabon, Amar, Pajanustan, Garcia, Banaag, Ringor, Berte)
+ //Group 4: Division (Members: Balais, Tabon, Amar, Pajanustan, Garcia, Banaag, Ringor, Berte, Andeleon, Berte)
 	public static int divide(int a, int b){
 		return a / b;
 	}
 
+ //Group 4: Division (Members: Balais, Tabon, Amar, Pajanustan, Garcia, Banaag, Ringor, Berte)
+	public static int divide(int a, int b){
+		return a / b;
+	}
 
 
 
